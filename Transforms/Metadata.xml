@@ -1,0 +1,4 @@
+﻿<metadata>
+    <attr path="/api/package[@name='com.squareup.otto']"
+          name="managedName" >SquareUp.Otto</attr>
+</metadata>
